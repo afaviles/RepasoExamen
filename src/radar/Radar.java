@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Radar {
 
 public static void main(String[] args) {
+    
+        // Le hago una primera modificacion al codigo para GitHub 
         Scanner sc = new Scanner(System.in);
 
         float recorrido = 0F;
